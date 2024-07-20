@@ -9,7 +9,7 @@ Data analysis and computation of probit regression model
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # Analysis Snippets:
-## Part A: Gender, Age, Number of people per Household (HH), Years of schooling of participant - vs. Food security
+Part A: Gender, Age, Number of people per Household (HH), Years of schooling of participant - vs. Food security
 ![partA](./part_A/Part_A.png?raw=true)
 
 ## Part B: 
