@@ -34,6 +34,6 @@ Contract in place/type, Cooperative membership, Sorghum sold -  vs. food securit
 
 ## Regression:
 Pearsons correlation, probit regression
-![regression](./regression/correlation.png?raw=true)
+![regression](./regression/Correlation.png?raw=true)
 
 
